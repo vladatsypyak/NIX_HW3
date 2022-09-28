@@ -1,0 +1,21 @@
+p{
+    font-weight: 800;
+    line-height: 1.3em;
+    font-size: 14px;
+    color: #000;
+}
+.color_b {
+    color: red;
+}
+.color_c {
+    color: rgba(183, 23, 212);
+}
+.color_d {
+    color: hsl(0, 30%, 40%);
+}
+.color_e {
+    color: rgba(179, 122, 52, 0.86);
+}
+body {
+    background: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+}

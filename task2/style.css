@@ -1,0 +1,14 @@
+p{
+    font-weight: 800;
+    line-height: 1.3em;
+    font-size: 14px;
+    color: #1d2263;
+    color: blue;
+    color: rgba(16, 16, 147, 0.96);
+    color: hsl(240, 100%, 50%);
+}
+
+body {
+    opacity: 0.3;
+    background-color: rgba(255, 255, 255, 0.3);
+}

@@ -1,0 +1,6 @@
+div{
+    width: 300px;
+    height: 200px;
+    background: #000 url(W3C.jpg) repeat ;
+    background-size: 20%;
+}

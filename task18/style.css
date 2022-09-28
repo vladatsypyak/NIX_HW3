@@ -1,0 +1,8 @@
+.left, .right{
+    width: 20%;
+}
+.left{
+    margin-right: auto;}
+.right {
+    margin-left: auto;
+}
